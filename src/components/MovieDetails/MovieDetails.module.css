@@ -1,0 +1,19 @@
+.MovieDetailsContainer {
+  display: flex;
+  align-items: center;
+}
+
+.MoviePosterContainer {
+  margin-right: 20px;
+  flex-basis: calc(30% - 20px);
+
+  border-radius: 8px;
+  box-shadow: 0 1px 3px 0 rgb(0 0 0 / 20%), 0 1px 1px 0 rgb(0 0 0 / 14%),
+    0 2px 1px -1px rgb(0 0 0 / 12%);
+
+  overflow: hidden;
+}
+
+.MovieInfoContainer {
+  flex-basis: calc(70%);
+}

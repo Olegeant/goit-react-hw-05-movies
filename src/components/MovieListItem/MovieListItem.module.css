@@ -1,0 +1,3 @@
+.MovieListItem:nth-child(2n) {
+  background-color: #f8f8ff;
+}

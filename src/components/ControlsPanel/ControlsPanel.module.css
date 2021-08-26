@@ -1,0 +1,15 @@
+.ControlsPanel {
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding: 5px 10px;
+  border-radius: 8px;
+  background-image: repeating-linear-gradient(
+    -45deg,
+    #ffffff,
+    #ffffff 15px,
+    #eff0f5 15px,
+    #eff0f5 30px
+  );
+
+  box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2);
+}

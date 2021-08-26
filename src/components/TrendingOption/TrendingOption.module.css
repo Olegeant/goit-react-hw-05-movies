@@ -1,0 +1,15 @@
+.OptionLable {
+  color: #465298;
+
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.Options {
+  color: #465298;
+  border: 1px solid #465298;
+}
+
+.Options:focus {
+  outline: 1px solid #465298;
+}
